@@ -16,3 +16,5 @@ fun main() {
     minimum_num = min(number1,number2)
     println("The minimum of the two numbers is: $minimum_num")
 }
+
+// output: The minimum of the two numbers is: 600
