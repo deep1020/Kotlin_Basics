@@ -1,3 +1,4 @@
+// maxBy function
 // return the student with the highest score in a subject.
 data class Student(val subject:String?=null ,val score: Int)
 

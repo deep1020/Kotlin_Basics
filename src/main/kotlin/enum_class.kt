@@ -5,6 +5,8 @@
 //• getColor is similar to testColor from the previous example, but uses an exhaustive
 //list of all named constants.
 
+//'when' is Similar to switch statement — matches its argument against all branches
+//sequentially until a branch condition is met
 import java.lang.Exception
 
 enum class CLR (val r:Int, val g:Int, val b:Int) {
